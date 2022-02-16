@@ -7,7 +7,6 @@ from pyotp import HOTP
 
 DEBUG = True
 
-
 class DUO_CLI:
     def __init__(self) -> None:
         self.token_file = "duo_token.json"
@@ -45,7 +44,6 @@ class DUO_CLI:
     def get_otp(self):
         self.increment_offset()
         return HOTP(self.secret).at(self.offset)
-
 
 if __name__ == "__main__":
     duo = DUO_CLI()
