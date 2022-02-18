@@ -2,9 +2,9 @@
 Generate DUO 2FA Code using python! 
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Aayush9029/Duo-cli/main/assets/logo.png?token=GHSAT0AAAAAABRI7EDII6WOUJ2S3WY7PDLCYQP5PSA" width="200px">
+<img src="https://raw.githubusercontent.com/Aayush9029/Duo-cli/main/assets/logo.png" width="200px">
   <br>
-<img src="https://raw.githubusercontent.com/Aayush9029/Duo-cli/main/assets/Duo-cli%20Usage.png?token=GHSAT0AAAAAABRI7EDJ2C4U3EFH4RWXTXQEYQP5S5A" width="500px">
+<img src="https://raw.githubusercontent.com/Aayush9029/Duo-cli/main/assets/Duo-cli%20Usage.png" width="500px">
 </div>
 
 
